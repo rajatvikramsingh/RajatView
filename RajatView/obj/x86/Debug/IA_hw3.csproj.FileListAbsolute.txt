@@ -1,0 +1,33 @@
+c:\Projects\IA_hw3\IA_hw3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Projects\IA_hw3\IA_hw3\obj\x86\Debug\IA_hw3.Form1.resources
+c:\Projects\IA_hw3\IA_hw3\obj\x86\Debug\IA_hw3.Properties.Resources.resources
+c:\Projects\IA_hw3\IA_hw3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\Projects\IA_hw3\IA_hw3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\Projects\IA_hw3\IA_hw3\bin\Debug\IA_hw3.exe
+c:\Projects\IA_hw3\IA_hw3\bin\Debug\IA_hw3.pdb
+c:\Projects\IA_hw3\IA_hw3\bin\Debug\Emgu.CV.DebuggerVisualizers.dll
+c:\Projects\IA_hw3\IA_hw3\bin\Debug\Emgu.CV.dll
+c:\Projects\IA_hw3\IA_hw3\bin\Debug\Emgu.CV.ML.dll
+c:\Projects\IA_hw3\IA_hw3\bin\Debug\Emgu.CV.UI.dll
+c:\Projects\IA_hw3\IA_hw3\bin\Debug\Emgu.Util.dll
+c:\Projects\IA_hw3\IA_hw3\bin\Debug\ZedGraph.dll
+c:\Projects\IA_hw3\IA_hw3\bin\Debug\zlib.net.dll
+c:\Projects\IA_hw3\IA_hw3\bin\Debug\Emgu.CV.xml
+c:\Projects\IA_hw3\IA_hw3\bin\Debug\Emgu.CV.ML.xml
+c:\Projects\IA_hw3\IA_hw3\bin\Debug\Emgu.CV.UI.xml
+c:\Projects\IA_hw3\IA_hw3\bin\Debug\Emgu.Util.xml
+c:\Projects\IA_hw3\IA_hw3\obj\x86\Debug\IA_hw3.exe
+c:\Projects\IA_hw3\IA_hw3\obj\x86\Debug\IA_hw3.pdb
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\IA_hw3\IA_hw3\obj\x86\Debug\IA_hw3.exe
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\IA_hw3\IA_hw3\obj\x86\Debug\IA_hw3.pdb
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\IA_hw3\IA_hw3\bin\Debug\IA_hw3.exe
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\IA_hw3\IA_hw3\bin\Debug\IA_hw3.pdb
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\IA_hw3\IA_hw3\bin\Debug\Emgu.CV.xml
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\IA_hw3\IA_hw3\bin\Debug\Emgu.CV.ML.xml
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\IA_hw3\IA_hw3\bin\Debug\Emgu.CV.UI.xml
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\IA_hw3\IA_hw3\bin\Debug\Emgu.Util.xml
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\IA_hw3\IA_hw3\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\IA_hw3\IA_hw3\obj\x86\Debug\IA_hw3.Form1.resources
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\IA_hw3\IA_hw3\obj\x86\Debug\IA_hw3.Properties.Resources.resources
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\IA_hw3\IA_hw3\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\IA_hw3\IA_hw3\obj\x86\Debug\GenerateResource.write.1.tlog

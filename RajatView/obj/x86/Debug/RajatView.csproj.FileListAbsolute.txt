@@ -1,0 +1,14 @@
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\RajatView\RajatView\bin\Debug\RajatView.exe
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\RajatView\RajatView\bin\Debug\RajatView.pdb
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\RajatView\RajatView\bin\Debug\Emgu.CV.xml
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\RajatView\RajatView\bin\Debug\Emgu.CV.ML.xml
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\RajatView\RajatView\bin\Debug\Emgu.CV.UI.xml
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\RajatView\RajatView\bin\Debug\Emgu.Util.xml
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\RajatView\RajatView\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\RajatView\RajatView\obj\x86\Debug\RajatView.GraphForm.resources
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\RajatView\RajatView\obj\x86\Debug\RajatView.MainForm.resources
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\RajatView\RajatView\obj\x86\Debug\RajatView.Properties.Resources.resources
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\RajatView\RajatView\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\RajatView\RajatView\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\RajatView\RajatView\obj\x86\Debug\RajatView.exe
+F:\Study\Sem 5\Image Analysis\IA_hw3-2\RajatView\RajatView\obj\x86\Debug\RajatView.pdb
