@@ -1,4 +1,4 @@
-img-manip
+Rajat View
 =========
 
-Image Manipulator with image manipulator functions like edge detection, fourier transform etc.
+Image Manipulator with image manipulator functions like filters, edge detection, fourier transform, morphological operations etc. 
